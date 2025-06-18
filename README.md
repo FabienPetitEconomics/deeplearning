@@ -30,3 +30,5 @@ Many important questions in economics remain unanswered, partly because the data
 - LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep Learning. Nature.
 - Lones, M. A. (2021). How to avoid machine learning pitfalls: a guide for academic researchers. BMC Bioinformatics.
 - Gentzkow, M., Kelly, B., & Taddy, M. (2019). Text as Data. Journal of Economic Literature.
+
+This course builds on the material developed and previously taught by Clément Gorin, whose contributions are gratefully acknowledged.
